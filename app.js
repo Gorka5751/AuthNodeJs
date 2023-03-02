@@ -14,6 +14,7 @@ const MongoDBSession = require('connect-mongodb-session')(session);
 
 
 
+
 //For bcrypt
 const saltRounds = 10;
 const mongoURI = 'mongodb+srv://Gorka1234:Gorka2002@cluster0.wxufc8u.mongodb.net/?retryWrites=true&w=majority'
